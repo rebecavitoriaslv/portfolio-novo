@@ -24,6 +24,10 @@
     margin-left: 400px;
 }
 
+#mensage-btn {
+    display: none;
+}
+
 #mensage-btn .close-btn {
     margin-left: 370px;
 }
